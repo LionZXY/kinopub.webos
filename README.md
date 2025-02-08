@@ -1,4 +1,4 @@
-# Kinopub WebOS
+# Kinopub WebOS (fork)
 
 A Kinopub client for LG Smart TVs with WebOS - using EnactJS, Moonstone
 
